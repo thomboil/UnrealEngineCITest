@@ -1,0 +1,3 @@
+C:\Users\thomas.boily\Documents\TeamCityTests\UnrealCITest\UnrealEngineCITest\BasicShooterGame\Source\BasicShooterGame\BasicShooterGame.Build.cs
+C:\Users\thomas.boily\Documents\TeamCityTests\UnrealCITest\UnrealEngineCITest\BasicShooterGame\Source\BasicShooterGame.Target.cs
+C:\Users\thomas.boily\Documents\TeamCityTests\UnrealCITest\UnrealEngineCITest\BasicShooterGame\Source\BasicShooterGameEditor.Target.cs

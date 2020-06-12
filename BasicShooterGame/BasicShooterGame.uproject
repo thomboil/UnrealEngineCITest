@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ABDEE47E-4782-3D70-CC99-BEB31D6FDBC6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BasicShooterGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

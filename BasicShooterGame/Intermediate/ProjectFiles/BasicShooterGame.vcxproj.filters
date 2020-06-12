@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BasicShooterGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{80C087E6-B72D-4BA3-AFDE-A01E41D11F4D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicShooterGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BasicShooterGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{57523EB0-96E9-457B-BA54-095708CC31D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BasicShooterGame">
+      <UniqueIdentifier>{8DD4F395-F46A-4861-A96A-059AA47BCB87}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicShooterGame\BasicShooterGame.Build.cs">
+      <Filter>Source\BasicShooterGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BasicShooterGame\BasicShooterGame.cpp">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicShooterGame\BasicShooterGame.h">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicShooterGame\BasicShooterGameCharacter.cpp">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicShooterGame\BasicShooterGameCharacter.h">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicShooterGame\BasicShooterGameGameMode.cpp">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicShooterGame\BasicShooterGameGameMode.h">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicShooterGame\BasicShooterGameHUD.cpp">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicShooterGame\BasicShooterGameHUD.h">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicShooterGame\BasicShooterGameProjectile.cpp">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicShooterGame\BasicShooterGameProjectile.h">
+      <Filter>Source\BasicShooterGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
